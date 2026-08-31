@@ -2,6 +2,10 @@ ETAPA 1: Preparação do Ambiente de Laboratório: <img width="912" height="698"
 
 Laboratório 2: Rotação In-Place (Giro de 90º): <img width="891" height="257" alt="2_terminal" src="https://github.com/user-attachments/assets/b045e1bb-63cf-4de5-9cde-ff7738fa8767" />
 
+Lab 3 (5 sensores com ruído): <img width="1366" height="768" alt="Captura de tela de 2026-08-31 20-31-14" src="https://github.com/user-attachments/assets/43337c95-edcf-4d48-84ec-cfccd28b5f4e" />
+
+Lab 4 (Braitenberg – medo):<img width="1366" height="768" alt="Captura de tela de 2026-08-31 20-40-30" src="https://github.com/user-attachments/assets/801ee098-e254-4013-abf6-dff490c0543e" />
+
 <img width="913" height="680" alt="2" src="https://github.com/user-attachments/assets/8c764335-cadf-46a3-8420-0b8813521f50" />
 
 Laboratório 5º: Navegador Reativo Go-to-Goal com Desvio: <img width="1024" height="697" alt="5new" src="https://github.com/user-attachments/assets/63fa8a6a-130f-4786-af58-39429fbc1d4d" />
